@@ -8,7 +8,7 @@ Note: This a public project which is now in underdevelopment. I made this with p
 
 Crackboo is a tool made in python language. This tool will help you to crack protected zip file password with a great vizualization. The tool only able to crack zip and rar file at this moment, but future version will get more features add in this tool.
 
-### Installation
+## Installation
 
 git clone https://github.com/s0l4ris-211/CrackBoo<br /><br />
 cd /CrackBoo<br /><br />
