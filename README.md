@@ -10,7 +10,7 @@ Crackboo is a tool made in python language. This tool will help you to crack pro
 
 ### Installation
 
-git clone https://github.com/s0l4ris-211/CrackBoo
-cd /CrackBoo
-chmod +x crackboo.py
+git clone https://github.com/s0l4ris-211/CrackBoo\n
+cd /CrackBoo\n
+chmod +x crackboo.py\n
 python3 crackboo.py [arguments]
